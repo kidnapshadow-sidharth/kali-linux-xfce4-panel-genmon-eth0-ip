@@ -8,3 +8,5 @@ if [ "${ip}" != "" ]; then
 else
   printf "<txt></txt>"
 fi
+
+#kidnapshadow 
